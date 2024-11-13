@@ -1,7 +1,7 @@
 {
-  "name": "ep_rehearsal-compiler",
+  "name": "ep_rehearsal_compiler",
   "version": "0.0.1",
-  "description": "Compiles and runs the Rehearsal Language inside of erherpad",
+  "description": "Compiles and runs the Rehearsal Language inside of etherpad",
   "author": {
     "name": "Milan Gress",
     "email": "dev@milangress.de",
@@ -18,18 +18,18 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milangress/ep_rehearsal-compiler.git"
+    "url": "https://github.com/milangress/ep_rehearsal_compiler.git"
   },
   "bugs": {
-    "url": "https://github.com/milangress/ep_rehearsal-compiler/issues"
+    "url": "https://github.com/milangress/ep_rehearsal_compiler/issues"
   },
-  "homepage": "https://github.com/milangress/ep_rehearsal-compiler/README.md",
+  "homepage": "https://github.com/milangress/ep_rehearsal_compiler/README.md",
   "funding": {
     "type": "individual",
     "url": "https://etherpad.org/"
   },
   "dependencies": {
-    "MODULE": "0.3.20"
+      "MODULE": "0.3.20"
   },
   "peerDependencies": {
     "ep_etherpad_lite":">=1.8.6"
