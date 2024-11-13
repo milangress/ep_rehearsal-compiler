@@ -4,39 +4,35 @@
   "description": "Compiles and runs the Rehearsal Language inside of erherpad",
   "author": {
     "name": "Milan Gress",
-    "email":  "<dev@milangress.de>",
+    "email": "dev@milangress.de",
     "github": "https://github.com/milangress"
   },
   "contributors": [
-    "",
+    "Milan Gress <dev@milangress.de>"
   ],
   "keywords": [
     "etherpad",
     "plugin",
-    "ep",
+    "ep"
   ],
-  "license": {
-    "Apache-2.0+"
-  },
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milangress/ep__rehearsal-compiler.git",
+    "url": "https://github.com/milangress/ep__rehearsal-compiler.git"
   },
   "bugs": {
-    "url": "https://github.com/milangress/ep__rehearsal-compiler/issues",
+    "url": "https://github.com/milangress/ep__rehearsal-compiler/issues"
   },
-  "homepage": {
-    "url": "https://github.com/milangress/ep__rehearsal-compiler/README.md",
-  },
+  "homepage": "https://github.com/milangress/ep__rehearsal-compiler/README.md",
   "funding": {
     "type": "individual",
-    "url": "https://etherpad.org/",
+    "url": "https://etherpad.org/"
   },
   "dependencies": {
-    "MODULE": "0.3.20",
+    "MODULE": "0.3.20"
   },
   "peerDependencies": {
-    "ep_etherpad_lite":">=1.8.6",
+    "ep_etherpad_lite":">=1.8.6"
   },
   "devDependencies": {
     "eslint": "^7.18.0",
@@ -46,17 +42,17 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-you-dont-need-lodash-underscore": "^6.10.0",
+    "eslint-plugin-you-dont-need-lodash-underscore": "^6.10.0"
   },
     "eslintConfig": {
     "root": true,
-    "extends": "etherpad/plugin",
+    "extends": "etherpad/plugin"
   },
   "scripts": {
     "lint": "eslint .",
-    "lint:fix": "eslint --fix .",
+    "lint:fix": "eslint --fix ."
   },
   "engines": {
-    "node": ">= 10.13.0",
+    "node": ">= 10.13.0"
   }
 }

@@ -1,3 +1,5 @@
+# License
+
 /**
   * Copyright 2024 by Milan Gress <dev@milangress.de>
   *
