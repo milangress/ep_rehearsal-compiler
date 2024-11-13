@@ -1,5 +1,5 @@
 {
-  "name": "ep__rehearsal-compiler",
+  "name": "ep_rehearsal-compiler",
   "version": "0.0.1",
   "description": "Compiles and runs the Rehearsal Language inside of erherpad",
   "author": {
