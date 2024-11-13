@@ -18,12 +18,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milangress/ep__rehearsal-compiler.git"
+    "url": "https://github.com/milangress/ep_rehearsal-compiler.git"
   },
   "bugs": {
-    "url": "https://github.com/milangress/ep__rehearsal-compiler/issues"
+    "url": "https://github.com/milangress/ep_rehearsal-compiler/issues"
   },
-  "homepage": "https://github.com/milangress/ep__rehearsal-compiler/README.md",
+  "homepage": "https://github.com/milangress/ep_rehearsal-compiler/README.md",
   "funding": {
     "type": "individual",
     "url": "https://etherpad.org/"
