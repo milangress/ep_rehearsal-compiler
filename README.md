@@ -1,26 +1,26 @@
-# ep__rehearsal-compiler
+# ep_rehearsal_compiler
 ![Publish Status](https://github.com/milangress/ep__rehearsal-compiler/workflows/Node.js%20Package/badge.svg) ![Publish Status](https://github.com/milangress/ep__rehearsal-compiler/workflows/Node.js%20Package/badge.svg)
 ![Screenshot](https://user-images.githubusercontent.com/220864/107214131-5c3dd600-6a01-11eb-82d9-b2d67ec8ae93.png)
 
-## What is ep__rehearsal-compiler?
-An Etherpad Plugin to apply the ep__rehearsal-compiler functionality in a pad. (describe in minimum 50 Letters what it is)
+## What is ep_rehearsal_compiler?
+An Etherpad Plugin to apply the ep_rehearsal_compiler functionality in a pad. (describe in minimum 50 Letters what it is)
 Currently supports:
-* ep__rehearsal-compiler functionality 1
-* ep__rehearsal-compiler functionality 2
-* ep__rehearsal-compiler functionality 3
-* ep__rehearsal-compiler functionality 4
+* ep_rehearsal_compiler functionality 1
+* ep_rehearsal_compiler functionality 2
+* ep_rehearsal_compiler functionality 3
+* ep_rehearsal_compiler functionality 4
 
-## ep__rehearsal-compiler Usage
-Experimental.  As a special attribute on Etherpad, some weirdness may be experienced by using ep__rehearsal-compiler.
+## ep_rehearsal_compiler Usage
+Experimental.  As a special attribute on Etherpad, some weirdness may be experienced by using ep_rehearsal_compiler.
 
-## ep__rehearsal-compiler History
-I decided to copy/paste the ep_t3 over ep__rehearsal-compiler to create that plugin.
+## ep_rehearsal_compiler History
+I decided to copy/paste the ep_t3 over ep_rehearsal_compiler to create that plugin.
 
-## ep__rehearsal-compiler License
+## ep_rehearsal_compiler License
 /**
-  * Copyright 2024 by Milan Gress <dev@milangress.de>
+  * Copyright 2024 by Milan Gress 
   *
-  * This file is part of ep__rehearsal-compiler.
+  * This file is part of ep_rehearsal_compiler.
   *
   * Licensed under the Apache License, Version 2.0 or later 
   * (the "License"); you may not use this file except in 
@@ -34,24 +34,3 @@ I decided to copy/paste the ep_t3 over ep__rehearsal-compiler to create that plu
   *
   * * @license Apache-2.0+ <http://www.apache.org/licenses/LICENSE-2.0>
   */
-
-## ep__rehearsal-compiler Development
-I did the development for free to help support continued learning due to disruptions by the coronavirus.
-
-## ep__rehearsal-compiler Author
-Milan Gress <dev@milangress.de>, https://github.com/milangress
-
-## ep__rehearsal-compiler Contributors
-
-
-## Help Funding ep__rehearsal-compiler
-Place your funding information here.
-
- SEND
- MORE
------
-MONEY
-
-Thanks
-Milan Gress
-
