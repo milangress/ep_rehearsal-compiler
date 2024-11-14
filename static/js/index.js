@@ -1,11 +1,12 @@
 'use strict';
 
+let initiated = false;
 
-exports.postAceInit = function(hook, context){
-    console.log("postAceInit && ep__rehearsal-compiler init");
-    console.log(context);
-    console.log(hook);
-    return;
+
+exports.postAceInit = (hook_name, args, cb) => {
+  console.log("postAceInit && ep__rehearsal-compiler init");
+  initiated = true;
+  cb();
 };
 
 
