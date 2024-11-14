@@ -1,7 +1,6 @@
 # ep_rehearsal_compiler
 
 ![Publish Status](https://github.com/milangress/ep__rehearsal-compiler/workflows/Node.js%20Package/badge.svg) ![Publish Status](https://github.com/milangress/ep__rehearsal-compiler/workflows/Node.js%20Package/badge.svg)
-![Screenshot](https://user-images.githubusercontent.com/220864/107214131-5c3dd600-6a01-11eb-82d9-b2d67ec8ae93.png)
 
 ## What is ep_rehearsal_compiler?
 
