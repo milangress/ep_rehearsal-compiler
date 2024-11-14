@@ -1,6 +1,6 @@
 {
   "name": "ep_rehearsal_compiler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compiles and runs the Rehearsal Language inside of etherpad",
   "author": {
     "name": "Milan Gress",
