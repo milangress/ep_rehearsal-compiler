@@ -4,6 +4,10 @@
       "name": "main",
       "client_hooks": {
         "aceInitialized": "ep_rehearsal_compiler/static/js/index"
+      },
+      "hooks": {
+        "eejsBlock_editbarMenuLeft": "ep_rehearsal_compiler/index",
+        "padInitToolbar": "ep_rehearsal_compiler/index"
       }
     }
   ]
